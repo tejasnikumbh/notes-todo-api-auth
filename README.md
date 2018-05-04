@@ -8,20 +8,20 @@ Here are the libraries that I used while building this application
 
 ```javascript
 express.js
-mongoose (ORM)
-mongodb (Database Management)
+mongoose // (ORM)
+mongodb // (Database Management)
 ```
 ### Testing 
 
 ``` javascript
-mocha (Testing framework)
-supertest (Testing Async calls for Express) 
-chai (Assertions Library)
+mocha // (Testing framework)
+supertest // (Testing Async calls for Express) 
+chai // (Assertions Library)
 ```
 ### Hashing and Authentication
 
 ```javascript
-jsonwebtoken (Token generation and verification)
+jsonwebtoken // (Token generation and verification)
 ```
 
 ### Rapid Development
